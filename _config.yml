@@ -15,7 +15,7 @@ title: Jerameel Gomez's Portfolio # This is what shows up in the tab of the brow
 name: Jerameel Gomez
 headline: Jerameel Gomez
 description: >- # dont remove this line. this will ignore all new lines until the next section
- I am currently a Robotics Systems Engineering student at Singapore Institute of Technology (SIT). I am very passionate about robotics and automation and highly motivated to understand new concepts and challenge myself in new fields. This e-portfolio showcases the skills I have picked up and the projects used to develop these skills.
+ I am currently a Robotics Systems Engineering student at Singapore Institute of Technology (SIT). I am very passionate about robotics and automation and I am highly motivated to understand new concepts and challenge myself in new fields. This e-portfolio showcases the skills I have picked up and the projects used to develop these skills.
 profile_image: ./assets/images/profile-image/avatar.jpeg
 
 
@@ -27,8 +27,8 @@ resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/vi
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: https://www.linkedin.com/in/jerameelgamboagomez/    # https://www.linkedin.com/in/{your url slug} 
-  github: https://github.com/Mehlulz    # https://github.com/{your url slug} 
+  linkedin: jerameelgamboagomez    # https://www.linkedin.com/in/{your url slug} 
+  github: Mehlulz    # https://github.com/{your url slug} 
   #stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   #medium:            # https://medium.com/@{your url slug} 
   #x-twitter:   # https://x.com/{your url slug} 
@@ -43,48 +43,44 @@ external-links:    # input only your own url slug. The icons with missing entrie
 skills:
   - category: 3D Modeling
     tools:
-    - Onshape
     - Solidworks
-    - Creo
     - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
     - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
-  - category: Prototyping
-    tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
-    - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
-  - category: Design Standards / Practices
-    tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: PCB Design
-    tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
-    - KiCad
-  - category: Problem Solving / Risk Management
-    tools:
-    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
-    - Six Sigma methodologies
-    - Shain Red-X
+    
+#  - category: Prototyping
+#   tools:
+ #   - SLA
+   # - CNC
+   # - FDM
+    #- SLS
+    #- DMLS
+    #- PolyJet Printing
+    #- Vacuum Casting
+    #- Laser Cutting
+    #- Water Jet Cutting
+    #- Arduino / Raspberry Pi
+    #- Breadboarding for circuit testing
+ # - category: Design Standards / Practices
+ #   tools:
+#    - GD&T ASME Y14
+ #   - ISO fits and tolerances
+ #   - PLM (PTC Windchill / Arena)   
+#  - category: PCB Design
+ #   tools:
+#    - Altium Designer
+#    - Altium
+ #   - Eagle 
+#    - KiCad
+#  - category: Problem Solving / Risk Management
+#    tools:
+#    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
+ #   - DFMEA / PFMEA 
+ #   - Six Sigma methodologies
+ #   - Shain Red-X
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/{8-digit key}
+#formspree-key:   https://formspree.io/f/{8-digit key}
 
 
 
@@ -94,7 +90,7 @@ colors: # this is the basic theme
   border: "#ddd"
   link: "#4a76ee"
   highlight: "#0c0cf2"
-  background: "#ffffff"
+  background: "#e9f6fe"
   light_background: "#f3f5fb"
 
 # A few examples. 
