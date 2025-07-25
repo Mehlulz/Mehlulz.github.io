@@ -11,13 +11,13 @@ main-image: /limo.png
 
 ---
 # Project Requirement
-To design and create a physical environment, where a 4-wheeled mobile robot, i.e. LIMO robot from AgileX Robotics, is able to perform certain functions, localisation, mapping, path planning, navigation.
+To design and create a physical environment based on Changi Airport terminal 2, where a 4-wheeled mobile robot, i.e. LIMO robot from AgileX Robotics, is able to perform certain functions, localisation, mapping, path planning, navigation.
 ## Learning Outcomes  
-▪ To be able to design and create a physical environment, i.e. a built environment or an
+- To be able to design and create a physical environment, i.e. a built environment or an
 arena, where a mobile robot is able to move around.
-▪ To be able to appreciate the tradeoff inherent in any real-world project and come up with
+- To be able to appreciate the tradeoff inherent in any real-world project and come up with
 the best compromise.
-▪ To be able to use the limo robot to navigate through the mazze
+- To be able to use the limo robot to navigate through the mazze
 ### Header 3 
 Use this to have subsection if needed
 
