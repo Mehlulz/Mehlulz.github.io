@@ -1,8 +1,8 @@
 ---
 layout: post
 title: RSE2107A-Systems Engineering Project 1
-description:  
-skills: 
+description:  Design and create a physical arena inspired by a designated site at Changi Airport, ensuring it allows a 4-wheeled LIMO robot to perform key functions like localization, mapping, path planning, navigation, and obstacle avoidance.
+skills: RTAB-Map Navigation, LIMO Robot Configuration, Arena Layout Design.  
 main-image: /project2.jpg
 ---
 
