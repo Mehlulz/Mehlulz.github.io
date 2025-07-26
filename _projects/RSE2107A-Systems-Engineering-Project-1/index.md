@@ -43,7 +43,9 @@ Developed a Python ROS script to
 Documentation of our approach can be seen in the document: 
 ---
 ---
-[Full Documentation](https://docs.google.com/document/d/e/2PACX-1vSa_YLsK6IN35FtlLjiFyWISixE5j-9bfPvw5vEOq1qM6hP3iaN6D1vqKvEohXfWr9TFu_KwYFmEwf9/pub)
+[Arena Documentation](https://docs.google.com/document/d/e/2PACX-1vSa_YLsK6IN35FtlLjiFyWISixE5j-9bfPvw5vEOq1qM6hP3iaN6D1vqKvEohXfWr9TFu_KwYFmEwf9/pub)
+[Github LIMO Repo](https://github.com/Mehlulz/RSE2107A-LIMO)
+
 
 
 
