@@ -13,10 +13,10 @@ title: Jerameel Gomez's Portfolio # This is what shows up in the tab of the brow
 
 # Hero Section
 name: Jerameel Gomez
-headline: Jerameel Gomez
+headline: About me
 description: >- # dont remove this line. this will ignore all new lines until the next section
  I am currently a Robotics Systems Engineering student at Singapore Institute of Technology (SIT). I am very passionate about robotics and automation and I am highly motivated to understand new concepts and challenge myself in new fields. This e-portfolio showcases the skills I have picked up and the projects used to develop these skills.
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/avatar.jpg
 
 
 # Link your resume
