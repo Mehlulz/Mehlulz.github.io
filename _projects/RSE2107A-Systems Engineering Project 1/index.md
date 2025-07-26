@@ -30,7 +30,7 @@ Our design revolves around implied boundaries over solid walls to maintain the o
 
 
 
-<!-- ### Header 3 
+ ### Header 3 
 Use this to have subsection if needed
 ## Adding external links
 [Full Documentation](https://docs.google.com/document/d/1bn3_BbAwyuse3n4ZvTmV1Wqgdn0dt24oMvfh_bcjxEo/edit?usp=sharing)
@@ -121,5 +121,5 @@ console.log(x);
 | Row 2, Col 1 | Row 2, Col 2 |
 
 make sure to leave aline betwen the table and the header
--->
+
 
