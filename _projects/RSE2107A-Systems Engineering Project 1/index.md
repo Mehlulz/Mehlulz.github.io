@@ -3,9 +3,9 @@ layout: post
 title: RSE2107A-Systems Engineering Project 1
 description:  Design and create a physical arena inspired by a designated site at Changi Airport, ensuring it allows a 4-wheeled LIMO robot to perform key functions like localization, mapping, path planning, navigation, and obstacle avoidance.
 skills: 
-  -RTAB-Map Navigation 
-  -LIMO Robot Configuration 
-  -Arena Layout Design
+  RTAB-Map Navigation 
+  LIMO Robot Configuration 
+  Arena Layout Design
 main-image: /limo.png
 ---
 
@@ -28,10 +28,14 @@ arena, where a mobile robot is able to move around.
 the best compromise.
 - To be able to use the limo robot to navigate through the maze
 
-(https://docs.google.com/document/d/1bn3_BbAwyuse3n4ZvTmV1Wqgdn0dt24oMvfh_bcjxEo/edit?usp=sharing)
-<!--### Header 3 
-Use this to have subsection if needed
+[Full Documentation](https://docs.google.com/document/d/1bn3_BbAwyuse3n4ZvTmV1Wqgdn0dt24oMvfh_bcjxEo/edit?usp=sharing)
 
+
+
+<!-- ### Header 3 
+Use this to have subsection if needed
+## Adding external links
+[Full Documentation](https://docs.google.com/document/d/1bn3_BbAwyuse3n4ZvTmV1Wqgdn0dt24oMvfh_bcjxEo/edit?usp=sharing)
 
 ## Embedding images 
 ### External images
