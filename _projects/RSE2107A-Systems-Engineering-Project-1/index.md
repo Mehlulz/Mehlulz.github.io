@@ -25,20 +25,22 @@ the best compromise.
 Our design revolves around implied boundaries over solid walls to maintain the open aesthetic of Changi Airport Terminal 2. Instead of enclosed barriers, spaced obstacles like benches, pillars, or kiosks act as navigational cues, allowing the robot to interpret gaps as virtual walls while maintaining an open, human-friendly environment. This approach mirrors Changi’s balance of functionality and beauty, blending natural and architectural elements to create a visually appealing yet navigable space.
 
 {% include image-gallery.html images="Arena.png" height="400" %}
+---
 
+---
 ## LIMO Robot Navigation
 
-# RTAB-Map Implementation:
+### RTAB-Map Implementation:
 Configured RTAB-Map (Real-Time Appearance-Based Mapping) on ROS Noetic to create high-fidelity 2D/3D maps of dynamic arenas using a LIDAR and depth camera.
 -Optimized parameters for loop closure detection to improve map accuracy in feature-sparse environments.
 -Overcame "ghost walls" in the map by tuning Rtabmap db file
 
-# Autonomous Navigation:
+### Autonomous Navigation:
 Developed a Python ROS script to
 -Load pre-saved RTAB-Maps of each arena.
 -Navigate through Arenas prompted by the user
 
-Documentation of our approach can be seen in the document below
+Documentation of our approach can be seen in the document 
 [Full Documentation](https://docs.google.com/document/d/1bn3_BbAwyuse3n4ZvTmV1Wqgdn0dt24oMvfh_bcjxEo/edit?usp=sharing)
 
 
