@@ -47,12 +47,12 @@ skills:
     - Fusion 360 (Autodesk)
     - Inventor (Autodesk)
     
-#  - category: Prototyping
-#   tools:
- #   - SLA
-   # - CNC
-   # - FDM
-    #- SLS
+  - category: Programming
+   tools:
+    - C
+    - C++
+    - Python
+    - ROS1
     #- DMLS
     #- PolyJet Printing
     #- Vacuum Casting
