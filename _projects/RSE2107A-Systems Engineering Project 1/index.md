@@ -20,6 +20,15 @@ arena, where a mobile robot is able to move around.
 - To be able to appreciate the tradeoff inherent in any real-world project and come up with
 the best compromise.
 - To be able to use the limo robot to navigate through the maze
+
+## Arena 
+- To be able to design and create a physical environment, i.e. a built environment or an
+arena, where a mobile robot is able to move around.
+- To be able to appreciate the tradeoff inherent in any real-world project and come up with
+the best compromise.
+- To be able to use the limo robot to navigate through the maze
+
+(https://docs.google.com/document/d/1bn3_BbAwyuse3n4ZvTmV1Wqgdn0dt24oMvfh_bcjxEo/edit?usp=sharing)
 <!--### Header 3 
 Use this to have subsection if needed
 
