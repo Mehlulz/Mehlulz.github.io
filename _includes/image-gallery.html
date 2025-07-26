@@ -12,7 +12,6 @@
           />
       {% else %}
           {% assign page_url_without_index = page.url | remove: 'index' | remove: '.html' %}
-          {% assign full_image_path = full_image_path | replace: '//', '/' %}
           <img 
               src="{{ page_url_without_index }}{{ image_name }}" 
               alt="{{image_name}}"
