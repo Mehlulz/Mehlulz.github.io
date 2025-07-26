@@ -41,7 +41,7 @@ Developed a Python ROS script to
 -Navigate through Arenas prompted by the user
 
 Documentation of our approach can be seen in the document 
-[Full Documentation](https://docs.google.com/document/d/1bn3_BbAwyuse3n4ZvTmV1Wqgdn0dt24oMvfh_bcjxEo/edit?usp=sharing)
+[Full Documentation](https://docs.google.com/document/d/e/2PACX-1vSa_YLsK6IN35FtlLjiFyWISixE5j-9bfPvw5vEOq1qM6hP3iaN6D1vqKvEohXfWr9TFu_KwYFmEwf9/pub)
 
 
 
