@@ -28,12 +28,12 @@ Our design revolves around implied boundaries over solid walls to maintain the o
 
 ## LIMO Robot Navigation
 
-#RTAB-Map Implementation:
+# RTAB-Map Implementation:
 Configured RTAB-Map (Real-Time Appearance-Based Mapping) on ROS Noetic to create high-fidelity 2D/3D maps of dynamic arenas using a LIDAR and depth camera.
 -Optimized parameters for loop closure detection to improve map accuracy in feature-sparse environments.
 -Overcame "ghost walls" in the map by tuning Rtabmap db file
 
-#Autonomous Navigation:
+# Autonomous Navigation:
 Developed a Python ROS script to
 -Load pre-saved RTAB-Maps of each arena.
 -Navigate through Arenas prompted by the user
@@ -135,4 +135,4 @@ console.log(x);
 
 make sure to leave aline betwen the table and the header
 
-
+-->
