@@ -3,15 +3,15 @@ layout: post
 title: RSE2107A-Systems Engineering Project 1
 description:  Design and create a physical arena inspired by a designated site at Changi Airport, ensuring it allows a 4-wheeled LIMO robot to perform key functions like localization, mapping, path planning, navigation, and obstacle avoidance. The robot will then navigate through multiple different other Arenas.
 skills: 
-  -Python
-  -Localization
-  -Mapping
-  -Path Planning
-  -Navigation
-  -ROS1 Melodic
-  -ROS1 TF
-  -ROS1 Library
-  -Arena Design
+  - Python
+  - Localization
+  - Mapping
+  - Path Planning
+  - Navigation
+  - ROS1 Melodic
+  - ROS1 TF
+  - ROS1 Library
+  - Arena Design
   
 main-image: /limo.png
 ---
