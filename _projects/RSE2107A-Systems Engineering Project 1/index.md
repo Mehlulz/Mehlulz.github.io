@@ -22,11 +22,8 @@ the best compromise.
 - To be able to use the limo robot to navigate through the maze
 
 ## Arena 
-- To be able to design and create a physical environment, i.e. a built environment or an
-arena, where a mobile robot is able to move around.
-- To be able to appreciate the tradeoff inherent in any real-world project and come up with
-the best compromise.
-- To be able to use the limo robot to navigate through the maze
+Our design revolves around implied boundaries over solid walls to maintain the open aesthetic of Changi Airport Terminal 2. Instead of enclosed barriers, spaced obstacles like benches, pillars, or kiosks act as navigational cues, allowing the robot to interpret gaps as virtual walls while maintaining an open, human-friendly environment. This approach mirrors Changi’s balance of functionality and beauty, blending natural and architectural elements to create a visually appealing yet navigable space.
+
 
 [Full Documentation](https://docs.google.com/document/d/1bn3_BbAwyuse3n4ZvTmV1Wqgdn0dt24oMvfh_bcjxEo/edit?usp=sharing)
 
