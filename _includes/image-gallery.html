@@ -12,8 +12,10 @@
           />
       {% else %}
           {% assign page_url_without_index = page.url | remove: 'index' | remove: '.html' %}
+          {% assign full_image_path = page_url_without_index | append: image_name %}
+          {% assign full_image_path = full_image_path | replace: '//', '/' %}
           <img 
-              src="{{ page_url_without_index }}{{ image_name }}" 
+              src="{{ full_image_path }}" 
               alt="{{image_name}}"
               loading="lazy"
               onerror="this.onerror=null;this.src=this.src.replace('.webp','.png').replace('.png','.webp');"
