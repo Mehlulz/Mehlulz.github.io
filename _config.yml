@@ -48,7 +48,7 @@ skills:
     - Inventor (Autodesk)
     
   - category: Programming
-   tools:
+    tools:
     - C
     - C++
     - Python
