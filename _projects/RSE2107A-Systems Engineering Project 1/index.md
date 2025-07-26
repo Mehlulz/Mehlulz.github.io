@@ -12,6 +12,8 @@ main-image: /limo.png
 ---
 # Project Requirement
 To design and create a physical environment based on Changi Airport terminal 2, where a 4-wheeled mobile robot, i.e. LIMO robot from AgileX Robotics, is able to perform certain functions, localisation, mapping, path planning, navigation.
+
+
 ## Learning Outcomes  
 - To be able to design and create a physical environment, i.e. a built environment or an
 arena, where a mobile robot is able to move around.
