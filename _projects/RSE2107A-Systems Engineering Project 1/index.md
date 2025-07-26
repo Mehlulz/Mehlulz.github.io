@@ -23,6 +23,7 @@ the best compromise.
 
 ## Arena 
 Our design revolves around implied boundaries over solid walls to maintain the open aesthetic of Changi Airport Terminal 2. Instead of enclosed barriers, spaced obstacles like benches, pillars, or kiosks act as navigational cues, allowing the robot to interpret gaps as virtual walls while maintaining an open, human-friendly environment. This approach mirrors Changi’s balance of functionality and beauty, blending natural and architectural elements to create a visually appealing yet navigable space.
+
 {% include image-gallery.html images="Arena.png" height="400" %}
 
 [Full Documentation](https://docs.google.com/document/d/1bn3_BbAwyuse3n4ZvTmV1Wqgdn0dt24oMvfh_bcjxEo/edit?usp=sharing)
