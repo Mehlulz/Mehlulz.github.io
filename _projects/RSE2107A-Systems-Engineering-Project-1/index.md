@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RSE2107A-Systems Engineering Project 1
-description:  Design and create a physical arena inspired by a designated site at Changi Airport, ensuring it allows a 4-wheeled LIMO robot to perform key functions like localization, mapping, path planning, navigation, and obstacle avoidance.
+description:  Design and create a physical arena inspired by a designated site at Changi Airport, ensuring it allows a 4-wheeled LIMO robot to perform key functions like localization, mapping, path planning, navigation, and obstacle avoidance. The robot will then navigate through multiple different other Arenas.
 skills: 
   RTAB-Map Navigation 
   LIMO Robot Configuration 
@@ -26,11 +26,24 @@ Our design revolves around implied boundaries over solid walls to maintain the o
 
 {% include image-gallery.html images="Arena.png" height="400" %}
 
+## LIMO Robot Navigation
+
+#RTAB-Map Implementation:
+Configured RTAB-Map (Real-Time Appearance-Based Mapping) on ROS Noetic to create high-fidelity 2D/3D maps of dynamic arenas using a LIDAR and depth camera.
+-Optimized parameters for loop closure detection to improve map accuracy in feature-sparse environments.
+-Overcame "ghost walls" in the map by tuning Rtabmap db file
+
+#Autonomous Navigation:
+Developed a Python ROS script to
+-Load pre-saved RTAB-Maps of each arena.
+-Navigate through Arenas prompted by the user
+
+Documentation of our approach can be seen in the document below
 [Full Documentation](https://docs.google.com/document/d/1bn3_BbAwyuse3n4ZvTmV1Wqgdn0dt24oMvfh_bcjxEo/edit?usp=sharing)
 
 
 
- ### Header 3 
+<!-- ### Header 3 
 Use this to have subsection if needed
 ## Adding external links
 [Full Documentation](https://docs.google.com/document/d/1bn3_BbAwyuse3n4ZvTmV1Wqgdn0dt24oMvfh_bcjxEo/edit?usp=sharing)
